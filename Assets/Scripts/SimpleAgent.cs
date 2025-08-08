@@ -13,7 +13,7 @@ public class SimpleAgent : Agent
     public Transform targetTransform;
     public SimpleArea area;
 
-    private Rigidbody agentRigidbody;
+    private Rigidbody agentRigidbvody;
     private Vector3 startingPosition;
     private float previousDistanceToTarget;
 
