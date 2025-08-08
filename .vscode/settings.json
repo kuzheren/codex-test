@@ -1,0 +1,14 @@
+{
+  "editor.semanticHighlighting.enabled": true,
+  "csharp.semanticHighlighting.enabled": true,
+  "editor.semanticTokenColorCustomizations": {
+    "enabled": true,
+    "rules": {
+      "type": "#4EC9B0",
+      "class": "#4EC9B0",
+      "struct": "#86C691",
+      "enum": "#B5CEA8",
+      "namespace": "#4EC9B0"
+    }
+  }
+}
