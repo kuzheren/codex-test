@@ -25,6 +25,7 @@ public class SimpleAgent : Agent
 
     public override void OnEpisodeBegin()
     {
+        // hi
         // Reset velocity and position
         if (agentRigidbody != null)
         {
